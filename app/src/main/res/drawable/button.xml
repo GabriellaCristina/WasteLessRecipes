@@ -3,9 +3,9 @@
     <!--config cores do botao-->
     <corners android:radius="20dp"/>
     <gradient
-        android:startColor="@color/LawnGreen"
-        android:centerColor="@color/GreenYellow"
-        android:endColor="@color/PaleGreen"
+        android:startColor="@color/DarkOliveGreen"
+        android:centerColor="@color/OliveDrab"
+        android:endColor="@color/YellowGreen"
         android:angle="180"
         />
 </shape>
