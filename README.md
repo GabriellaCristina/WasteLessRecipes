@@ -8,7 +8,7 @@ Gabriel Almeida Rolle  171349 Mobile:CP110TIN2 PA:PA038TIN3
 
 Wallace Henrique Palma Galli  171850 Mobile:CP110TIN2 PA:nenhuma
 
-Carlos Eduardo Ferreira da Silva  223748 Mobile: PA:nenhuma
+Carlos Eduardo Ferreira da Silva  223748 Mobile:CP110TIN1 PA:nenhuma
 
 
 
